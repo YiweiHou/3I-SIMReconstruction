@@ -1,5 +1,5 @@
 % Wirtten by Yiwei Hou, Xin Chen as part of the paper 
-% "Advancing super-resolution imaging speed and duration with three-beam interference structured illumination microscopy"
+% "Triangle-beam interference structured illumination microscopy"
 % Authority: Yiwei Hou, Xin Chen and Peng Xi
 % College of fzuture technology, Peking University
 % For any questions, please contact: houyiwei@stu.pku.edu.cn; xipeng@pku.edu.cn

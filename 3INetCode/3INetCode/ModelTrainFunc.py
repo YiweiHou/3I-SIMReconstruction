@@ -226,22 +226,6 @@ def modeltraining(model, LR, epoch_num, loss_mode, save_path, savestep, train_da
 
     workbook = openpyxl.Workbook()
     sheet = workbook.active
-    a = np.array(BCE_vals)
-    for row in a:
-        sheet.append([row])
-
-    workbook.save(save_path + '\\' + 'BCE_vals.xlsx')
-
-    workbook = openpyxl.Workbook()
-    sheet = workbook.active
-    a = np.array(BCE_trains)
-    for row in a:
-        sheet.append([row])
-
-    workbook.save(save_path + '\\' + 'BCE_trains.xlsx')
-
-    workbook = openpyxl.Workbook()
-    sheet = workbook.active
     a = np.array(BL_vals)
     for row in a:
         sheet.append([row])
