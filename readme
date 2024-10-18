@@ -17,5 +17,8 @@ To run the .exe files, the MATLAB software is not necessary but one should downl
 # Demo
 Some test data and parameters are attached with the project for demonstration. 
 
+# Running time
+It usually takes 5 to 20 seconds to reconstruct a 1024x1024 super-resoltuion image from a 512x512x7 image stack, depending on the CPU performance. 
+
 # Instructions for use
 A detailed UserManual is attached with the project. For any questions in usage, please contact: houyiwei@stu.pku.edu.cn
