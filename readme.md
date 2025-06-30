@@ -1,6 +1,6 @@
 # Analytical and deep-learning assisted reconstruction code for 3I-SIM
 
-This is the supplementary software and source code for our manuscript "Triangle beam interference structured illumination microscopy", which is accepted by Nature Photonics.
+This is the supplementary software and source code for our manuscript "Triangle beam interference structured illumination microscopy", which is accepted by Nature Photonics 🚩.
 
 This work introduces a new type of structured illumination microscopy that uses radially polarized three-beam interference.
 
