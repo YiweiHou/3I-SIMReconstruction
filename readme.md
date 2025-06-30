@@ -4,7 +4,7 @@ This is the supplementary software and source code for our manuscript "Triangle 
 
 This work introduces a new type of structured illumination microscopy that uses radially polarized three-beam interference. The illumination patterns are shown below:
 
-![3I-SIM](./Image/1.png)
+![3I-SIM]('./Image/1.png' 400x300)
 
 
 Currently, the package contains the .m source code and a .exe files containing GUI of the 3I-SIM reconstruction code, and .py files for deep learning 3I-SIM reconstruction.
