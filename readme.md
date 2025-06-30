@@ -4,6 +4,7 @@ This is the supplementary software and source code for our manuscript "Triangle 
 
 This work introduces a new type of structured illumination microscopy that uses radially polarized three-beam interference. The illumination patterns are shown below:
 
+<img src="./Image/1.png" width="60%">
 ![3I-SIM]('./Image/1.png' 400x300)
 
 
