@@ -33,7 +33,12 @@ The example 3I-SIM imaging data are available at the figshare repository: https:
 The deep learning training, validation and testing datasets are available at the Zenodo repository: https://zenodo.org/records/14969641
 
 ## ✨ Instruction
+
 A detailed UserManual is attached with the project for demonstration. 
+
+Some example reconstruction results:
+
+![3I-SIM](./Image/2.png)
 
 ## 🎯 Running time
 It usually takes 5 to 20 seconds to reconstruct a 1024x1024 super-resoltuion image from a 512x512x7 image stack, depending on the CPU performance. 
