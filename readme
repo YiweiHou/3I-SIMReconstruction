@@ -1,4 +1,5 @@
-# Reconstruction algorithm of triangle beam interference structured illumination microscopy
+### Analytical and deep-learning assisted reconstruction code for 3I-SIM
+
 Supplementary software for the manuscript "Triangle beam interference structured illumination microscopy".
 
 Currently, the package contains the .m source code and a .exe files containing GUI of the 3I-SIM reconstruction code, and .py files for deep learning 3I-SIM reconstruction.
