@@ -39,7 +39,9 @@ A detailed UserManual is attached with the project for demonstration.
 
 Some example reconstruction results:
 
+<p align="center">
 ![3I-SIM](./Image/2.png)
+</p>
 
 ## 🎯 Running time
 It usually takes 5 to 20 seconds to reconstruct a 1024x1024 super-resoltuion image from a 512x512x7 image stack, depending on the CPU performance. 
