@@ -40,7 +40,7 @@ A detailed UserManual is attached with the project for demonstration.
 Some example reconstruction results:
 
 <p align="center">
-![3I-SIM](./Image/2.png)
+<img src="./Image/2.png" width="80%">
 </p>
 
 ## 🎯 Running time
